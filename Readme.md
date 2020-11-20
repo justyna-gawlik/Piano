@@ -2,16 +2,7 @@
 
 > This is a Javascript application where you can play 🎹 Practice piano on your computer or phone.
 
-## Table of contents
-
-- [Screenshots](#screenshots)
-- [Technologies](#technologies)
-- [Setup](#setup)
-- [Features](#features)
-
-## Screenshots
-
-![Example screenshot](./piano.png)
+![](piano.gif)
 
 ## Technologies
 
@@ -24,6 +15,3 @@ To run this project install it locally and open index.html using your explorer (
 
 Link to application:
 
-## Features
-
-You can practice piano whenever you want and wherever you are.
